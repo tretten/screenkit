@@ -1,15 +1,17 @@
-# ScreenKit
+<h1 align="center">ScreenKit</h1>
 
 <p align="center">
   <img src="logo.png" width="128" alt="ScreenKit icon">
 </p>
 
+<p align="center">
 A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, drag to select an area or click a window, and the shot lands in your clipboard and in a local library for cropping, annotating, or turning into a video.
-
-[brandkit.pro/screenkit](https://brandkit.pro/screenkit)
+<br>
+<a href="https://brandkit.pro/screenkit">brandkit.pro/screenkit</a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/tretten/screenkit/releases/latest">
+  <a href="https://github.com/tretten/screenkit/releases/latest/download/ScreenKit.dmg">
     <img src="download-macos.svg" width="260" alt="Download for macOS">
   </a>
 </p>
