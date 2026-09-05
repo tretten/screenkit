@@ -1,5 +1,9 @@
 # ScreenKit
 
+<p align="center">
+  <img src="logo.png" width="128" alt="ScreenKit icon">
+</p>
+
 A menu-bar screen capture tool for macOS 26 (Tahoe) and later. Press a hotkey, drag a pixel-precise selection or click a window, and the shot goes straight to your clipboard and into a local library for cropping, annotating, or turning into a video.
 
 [brandkit.pro/screenkit](https://brandkit.pro/screenkit)
