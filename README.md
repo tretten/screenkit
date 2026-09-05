@@ -8,6 +8,12 @@ A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, 
 
 [brandkit.pro/screenkit](https://brandkit.pro/screenkit)
 
+<p align="center">
+  <a href="https://github.com/tretten/screenkit/releases/latest">
+    <img src="download-macos.svg" width="260" alt="Download for macOS">
+  </a>
+</p>
+
 ## Features
 
 - Area and window capture, with a magnifier that follows the cursor while you select.
