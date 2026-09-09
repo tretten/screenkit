@@ -6,8 +6,6 @@
 
 <p align="center">
 A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, drag to select an area or click a window, and the shot lands in your clipboard and in a local library for cropping, annotating, or turning into a video.
-<br>
-<a href="https://brandkit.pro/screenkit">brandkit.pro/screenkit</a>
 </p>
 
 <p align="center">
@@ -24,7 +22,7 @@ A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, 
 - Library editor: crop, arrows, shapes, numbered steps, and a magnifier annotation that draws an enlarged detail beside the original.
 - Video recording of any selected area, with pause and resume from the menu bar, a live recording timer, and trimming in the built-in editor.
 - Optional cursor effects for recordings: click rings (a distinct color for right-click, staggered rings on double or triple clicks), a press-and-hold ring, a fading drag trail, and an auto zoom that eases in on clicks.
-- Color picker: `C` copies the hex value of the pixel under the crosshair, `⇧C` also opens it on brandkit.pro/color.
+- Color picker: `C` copies the hex value of the pixel under the crosshair, `⇧C` also opens it on brandkit.pro/colors.
 - OCR: select an area to recognize the text in it and copy it to the clipboard without saving an image.
 - Automatic JPEG/PNG format detection based on how photographic a capture looks; the clipboard copy always stays lossless PNG.
 - Captures can clean themselves up automatically after 1, 7, 15, or 30 days, or be kept forever.
