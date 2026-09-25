@@ -19,6 +19,7 @@ A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, 
 - Area, window, and full-screen (⇧⌘3) capture, with a magnifier that follows the cursor while you select.
 - A built-in measurement ruler: arrow keys measure the gap between edges under the cursor, Shift measures the outer bounds, and a click stamps the measurement onto the capture.
 - Every capture copies to the clipboard automatically and is also saved to a local library.
+- Copy Path (`P`): saves the capture to the library and puts its file path, in single quotes, on the clipboard, ready to paste into a terminal or a CLI tool.
 - Library editor: crop, arrows, shapes, numbered steps, and a magnifier annotation that draws an enlarged detail beside the original.
 - Video recording of any selected area, with pause and resume from the menu bar, a live recording timer, and trimming in the built-in editor.
 - Optional cursor effects for recordings: click rings (a distinct color for right-click, staggered rings on double or triple clicks), a press-and-hold ring, a fading drag trail, and an auto zoom that eases in on clicks.
