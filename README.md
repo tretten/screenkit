@@ -27,6 +27,7 @@ A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, 
 - OCR: select an area to recognize the text in it and copy it to the clipboard without saving an image.
 - ADA contrast check: select an area to get its contrast ratio with AA/AAA verdicts, a shareable link, and a shortcut to the full web checker (optional global hotkey, off by default).
 - Share straight from the thumbnail via AirDrop, Mail, or other services; the card stays on screen while you choose.
+- Swipe the capture thumbnail to the right with two fingers to dismiss it, like the system screenshot thumbnail; point at a fading thumbnail to bring it back.
 - Automatic JPEG/PNG format detection based on how photographic a capture looks; the clipboard copy always stays lossless PNG.
 - Captures can clean themselves up automatically after 1, 7, 15, or 30 days, or be kept forever.
 - Configurable hotkey and menu bar icon.
