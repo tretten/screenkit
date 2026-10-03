@@ -1,0 +1,40 @@
+name: Bug report
+description: Something in ScreenKit doesn't work as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Press ⇧⌘4\n2. ..."
+  - type: input
+    id: version
+    attributes:
+      label: ScreenKit version
+      description: Menu bar icon → About ScreenKit
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "macOS 15.3, Apple Silicon"
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: Where did you install it from?
+      options: [Direct download (DMG), Mac App Store]
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or recordings
+      description: Drag files here if they help.
