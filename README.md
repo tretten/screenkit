@@ -19,13 +19,15 @@ A menu-bar screen capture tool for macOS 14 (Sonoma) and later. Press a hotkey, 
 - Area, window, and full-screen (⇧⌘3) capture, with a magnifier that follows the cursor while you select.
 - A built-in measurement ruler: arrow keys measure the gap between edges under the cursor, Shift measures the outer bounds, and a click stamps the measurement onto the capture.
 - Every capture copies to the clipboard automatically and is also saved to a local library.
-- Copy Path (`P`): saves the capture to the library and puts its file path, in single quotes, on the clipboard, ready to paste into a terminal or a CLI tool.
-- Library editor: crop, arrows, shapes, numbered steps, and a magnifier annotation that draws an enlarged detail beside the original.
-- Video recording of any selected area, with pause and resume from the menu bar, a live recording timer, and trimming in the built-in editor.
+- Quick-edit toolbar over your selection: annotate the frozen screen before you save. Arrows, shapes, text, highlighter, numbers, pixelate, magnifier, and measurements, each with the same key as in the Captures editor (A arrow, R rectangle, T text, and so on; the arrow keys pick the measurement tools). Press Edit (`⏎`) to continue in Captures with your annotations still editable.
+- Copy Path (`⇧⌘C`): saves the capture to the library and puts its file path, in single quotes, on the clipboard, ready to paste into a terminal or a CLI tool.
+- Captures editor: crop, arrows, shapes, highlighter, text, numbered steps, pixelate, measurements, and a magnifier annotation that draws an enlarged detail beside the original.
+- Consistent panels: the capture bar, the annotation toolbar, and the recording bar share one button style. Tooltips show each action's name and shortcut, and animations respect Reduce Motion.
+- Video recording of any selected area, with pause and resume, a live recording timer, and trimming in the built-in editor. The recording bar appears on the display you are recording.
 - Optional cursor effects for recordings: click rings (a distinct color for right-click, staggered rings on double or triple clicks), a press-and-hold ring, a fading drag trail, and an auto zoom that eases in on clicks.
-- Color picker: `C` copies the hex value of the pixel under the crosshair, `⇧C` also opens it on brandkit.pro/colors.
+- Color picker: `C` copies the hex value of the pixel under the crosshair, `⇧C` also opens it on brandkit.pro/color.
 - OCR: select an area to recognize the text in it and copy it to the clipboard without saving an image.
-- ADA contrast check: select an area to get its contrast ratio with AA/AAA verdicts, a shareable link, and a shortcut to the full web checker (optional global hotkey, off by default).
+- ADA contrast check: select an area to get its contrast ratio with AA and AAA verdicts on a card. Copy the card as an image, or open the full web checker through More info. An optional global hotkey, off by default, starts the check.
 - Share straight from the thumbnail via AirDrop, Mail, or other services; the card stays on screen while you choose.
 - Swipe the capture thumbnail to the right with two fingers to dismiss it, like the system screenshot thumbnail; point at a fading thumbnail to bring it back.
 - Automatic JPEG/PNG format detection based on how photographic a capture looks; the clipboard copy always stays lossless PNG.
